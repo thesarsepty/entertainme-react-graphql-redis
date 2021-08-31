@@ -1,0 +1,72 @@
+ [
+  {
+    "title": "Cruella",
+    "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/rTh4K5uw9HypmpGslcKd4QfHl93.jpg",
+    "popularity": 3143.226,
+    "tags": ["crime", "comedy"]
+  }, 
+  {
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+    "popularity": 2990.744,
+    "tags": ["horror", "mystery"]
+  },
+  {
+    "title": "Wrath of Man",
+    "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+    "popularity": 2069.753,
+    "tags": ["action", "adventure"]
+  },
+  {
+    "title": "Vanquish",
+    "overview": "Victoria is a young mother trying to put her dark past as a Russian drug courier behind her, but retired cop Damon forces Victoria to do his bidding by holding her daughter hostage.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/AoWY1gkcNzabh229Icboa1Ff0BM.jpg",
+    "popularity": 1466.686,
+    "tags": ["crime", "action"]
+  },
+  {
+    "title": "Mortal Kombat",
+    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+    "popularity": 1397.697,
+    "tags": ["action", "fantasy"]
+  },
+  {
+    "title": "Army of the Dead",
+    "overview": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
+    "popularity": 1349.309,
+    "tags": ["horror", "action"]
+  },
+  {
+    "title": "Godzilla vs. Kong",
+    "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+    "popularity": 1259.819,
+    "tags": ["sci-fi", "action"]
+  },
+  {
+    "title": "Endangered Species",
+    "overview": "Jack Halsey takes his wife, their adult kids, and a friend for a dream vacation in Kenya. But as they venture off alone into a wilderness park, their safari van is flipped over by an angry rhino, leaving them injured and desperate.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg",
+    "popularity": 1214.486,
+    "tags": ["adventure", "mystery"]
+  },
+  {
+    "title": "A Quiet Place Part II",
+    "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "popularity": 1167.304,
+    "tags": ["adventure", "horror"]
+  },
+  {
+    "title": "The Unholy",
+    "overview": "Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick.",
+    "poster_path": "https://image.tmdb.org/t/p/w500/bShgiEQoPnWdw4LBrYT5u18JF34.jpg",
+    "popularity": 1091.179,
+    "tags": ["horror", "supernatural"]
+  }
+]

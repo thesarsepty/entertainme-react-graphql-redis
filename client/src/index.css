@@ -1,0 +1,258 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .details-font {
+  color: white;
+} */
+.warp-btn-add{
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* NAVBAR */
+.navbar-brand{
+  font-size: 2rem;
+  color: #000;
+}
+
+.navbar-brand:hover{
+  color: #000;
+}
+.navbar a{
+  cursor: pointer;
+}
+.nav-link{
+  margin-right: 10px;
+  margin-left: 10px;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.nav-link:hover{
+  color: rgb(73, 73, 73);
+}
+
+.search{
+  height: 40px;
+  width: 50%;
+  border-radius: 50px;
+  outline: none;
+  margin-right: -35px;
+  border: 2px solid #DFCBA6;
+}
+
+.d-flex input{
+  text-align: center;
+  color: #9e3f22;
+  font-weight: 700;
+}
+.btn0{
+  /* height: 40px; */
+  width: 50%;
+  outline: none;
+  border: none;
+  background:  #23464d;
+  color: white;
+  border-radius: 10px;
+  font-weight: 500;
+}
+/* END OF NAVBAR */
+body{
+  overflow-x: hidden;
+}
+
+h1{
+  font-weight: 700;
+}
+
+.btn1{
+  width: 50%;
+  outline: none;
+  border: none;
+  background:  #da5656;
+  color: white;
+  border-radius: 10px;
+  font-weight: 500;
+  margin-right: 8px;
+}
+
+.btn1:hover{
+  background-color: #ff9a9a;
+  transition: 0.5s;
+}
+
+.btn0:hover{
+  background-color: #5c8992;
+  transition: 0.5s;
+}
+
+/* Content */
+
+.card-content{
+  overflow: hidden;
+  border: 0 !important;
+  border-radius: 20px !important;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0.1);
+}
+
+.card-content:hover{
+  box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+  -webkit-box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+
+#add-section{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+  overflow: hidden;
+  border: 0 !important;
+  border-radius: 20px !important;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0.1);
+}
+
+.form-input{
+  position: relative;
+}
+
+.form-input input{
+  width: 100%;
+  height: 45px;
+  padding-left: 40px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  box-shadow: none;
+  border: 1px solid #00000020;
+  border-radius: 50px;
+  outline: none;
+  background: transparent;
+}
+
+.form-input span{
+  position: absolute;
+  top: 10px;
+  padding-left: 15px;
+  color: #3f3d56;
+}
+
+.form-input input::placeholder{
+  color: black;
+  padding-left: 0px;
+}
+
+.form-input input:focus .form-input input:valid{
+  border: 2px solid #575572
+
+}
+
+.form-input input:focus::placeholder{
+  color: #454b69;
+}
+
+.form-box button[type="submit"]{
+  margin-top: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  background: #3f3d56;
+  color: #fff;
+  font-size: 90%;
+  font-weight: bold;
+  letter-spacing: .1rem;
+  transition: 0.5s;
+  padding: 12px;
+}
+
+.form-box button[type="submit"]:hover{
+  background: #545170;
+}
+
+.form-box button[type="button"]{
+  margin-top: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  background: #a9621d;
+  color: #fff;
+  font-size: 90%;
+  font-weight: bold;
+  letter-spacing: .1rem;
+  transition: 0.5s;
+  padding: 12px;
+}
+.form-box button[type="button"]:hover{
+  background: #e29242;
+}
+
+.input-group{
+  position: relative;
+}
+
+.input-group input{
+  width: 100%;
+  height: 45px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  box-shadow: none;
+  border: 1px solid #00000020;
+  border-radius: 50px;
+  outline: none;
+  background: transparent;
+}
+
+.input-group-text{
+  height: 45px;
+  box-sizing: border-box;
+  box-shadow: none;
+  border: 1px solid #00000020;
+  border-radius: 50px;
+  background: transparent
+}
+
+.btn-outline-dark{
+
+  height: 45px;
+  box-sizing: border-box;
+  box-shadow: none;
+  border: 1px solid #00000020;
+  border-radius: 50px;
+  background: transparent;
+  margin-bottom: 20px;
+}
+
+#like-section p{
+  color: #6c757d;
+}
+
+#like-section h3 h5{
+  font-size: 1.5rem;
+  color: #6c757d;
+}
+
+.main-like{
+  background: #fff;
+}
+
+.text-indiv p{
+  font-size: 1.1rem;
+}
